@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "HTML: The Paragraph Tag",
+    "slug": "html-paragraph-tag",
+    "description": "An introduction to the HTML paragraph tag, which is used to define paragraphs in HTML documents.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "html"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "html-tags"
     ],
     "related": [
-        "",
-        ""
     ]
 }
